@@ -1,35 +1,47 @@
-# Objetivos Pricipais:
-- [x] Criar uma conta no Github
+# 🚀 Desafio GitHub - Checklist
 
-- [x] Adicione um colaborador ao seu repositório (pode ser um colega de curso ou você mesmo com uma conta diferente)
+Este repositório foi criado para atender aos requisitos do desafio de uso do GitHub, com foco no fluxo colaborativo e nas boas práticas.
 
-- [x] Realize alterações, Commits, abra issues e pull requests
+---
 
-- [x] Edite o arquivo "README.md" em seu repositório
+## ✅ Checklist de Atividades
 
-- [x] Formatação com Markdown
+- [x] Criar uma conta no GitHub  
+- [x] Adicionar um colaborador ao repositório (pode ser um colega de curso ou você mesmo com outra conta)  
+- [x] Realizar alterações, commits, abrir issues e pull requests  
+- [x] Editar o arquivo `README.md` no repositório  
+- [x] Formatação com Markdown aplicada corretamente  
 
--------------
+---
 
-# Testando Links com Imagens
-Como um bom apreciador de jogos em geral, hoje atribuirei a alguns personagens de **Cyberpunk 2077** uma música para cada um, superficialmente claro — indo apenas pela aparência.<br /> Todas disponíveis na rádio jogo. 😅👀
+## 📋 Instruções e Progresso
 
-----
-| Johnny Silverhand | Rogue Amendiares |  Aurore Cassel | Song So Mi |
-| :-----------------: | :----------------: | :---------------: | :-----------: |
-| <img src="https://app.kits.ai/_next/image?url=https%3A%2F%2Fd2sfqo51tiwost.cloudfront.net%2Fvoice-models%2Fimages%2Fw0AGxraPRu4gRGxMCw-9D.jpg&w=3840&q=75" width="250"> | <img src="https://i.pinimg.com/originals/b0/2e/47/b02e47d16436aff7ca3c7ee5f6cd7a6a.jpg" width="265">|<img src= "https://pbs.twimg.com/media/F964nHmb0AAWLEZ?format=jpg&name=4096x4096" width= "200"> | <img src= "https://pbs.twimg.com/media/F8b3eBYboAAT9Ae?format=jpg&name=4096x4096" width="200"> 
-|[Black Dog Samurai](https://music.youtube.com/watch?v=kmt8WmTenVE) |[Friday Night Fire Fight](https://music.youtube.com/watch?v=2kgJy0kZGvE&list=OLAK5uy_l-QlBGP0y_UreQpmxE4NBnxfBgIeUphF4) |[On My Way To Hell](https://music.youtube.com/watch?v=DCbvbCbB0fE&list=OLAK5uy_k-yennWU9IJB_FfIXGR8XU6ilY7msBnK4) | [Major Crimes](https://music.youtube.com/watch?v=U6PSsSM1swQ&list=OLAK5uy_k-yennWU9IJB_FfIXGR8XU6ilY7msBnK4)
+| Atividade                      | Status    | Imagem                                           | Descrição                                                                                   |
+|-------------------------------|-----------|-------------------------------------------------|---------------------------------------------------------------------------------------------|
+| Criar conta no GitHub          | ✅ Feito  | ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png) | Criar uma conta gratuita em [github.com](https://github.com) para gerenciar código e projetos. |
+| Adicionar colaborador          | ✅ Feito  | ![Adicionar Colaborador](https://user-images.githubusercontent.com/33121754/82304927-94c52f00-99ab-11ea-917e-4b489e5f4a4a.png) | Adicionar um colaborador via configurações do repositório para trabalho em equipe.           |
+| Realizar commits e pull requests | ✅ Feito | ![Pull Request](https://docs.github.com/assets/images/help/pull_requests/pull-request-review-comments.png) | Fazer commits e abrir Pull Requests para revisar e integrar alterações.                      |
+| Editar arquivo README.md       | ✅ Feito  | ![Editar README](https://docs.github.com/assets/images/help/repository/edit-readme-button.png) | Modificar o arquivo README.md para documentar o projeto com Markdown.                        |
+| Formatação Markdown            | ✅ Feito  | ![Markdown](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg) | Utilizar sintaxe Markdown para formatação de textos, listas, links, imagens e mais.          |
 
-------------------------
+---
 
-<img src="https://farm2.staticflickr.com/1721/41076890350_85a097fa23_o.gif" width="1050" height="400">
-<img src="https://github.com/alinealien/desafio-github-markdown-1/blob/main/x1.gif?raw=true" width="1050" height="400">
-<img src="https://github.com/alinealien/desafio-github-markdown-1/blob/main/x2.gif?raw=true" width="1050" height="400">
+## 📚 Sobre o Projeto
 
+Este repositório é uma prática para aprendizado do fluxo colaborativo no GitHub, incluindo:
 
-### Links das imagens/gifs utilizadas na tabela
+- **Gestão de colaboradores** — permissões e trabalho em equipe  
+- **Fluxo de commits e branches** — controle de versões e organização  
+- **Abertura e revisão de pull requests** — revisão de código e integração  
+- **Uso de issues** — gerenciamento e acompanhamento de tarefas  
 
-- [x] [Johnny](https://app.kits.ai/convert/shared/keanu-reeves) | [Rogue](https://www.pinterest.com.mx/pin/744149538434872495/) | [Aurore e So Mi](https://twitter.com/JB_Jawbreaker)
+---
 
+## 📫 Como me encontrar
 
-- [x] [Logo](https://blog.br.playstation.com/2018/06/19/e3-2018-primeiras-impressoes-de-cyberpunk-2077/) | [Shop 24H](https://mysticfirethorn.tumblr.com/post/730010457610600448/cyberpunk-2077-phantom-liberty) | [Totentanz Club](https://frey-jaa.tumblr.com/post/639868383982190592/lohse-cyberpunk-2077-totentanz-club)
+- LinkedIn: [Jeferson Gomes](https://www.linkedin.com/in/jeferson-gomes/)  
+- E-mail: [jrpsb@outlook.com](mailto:jrpsb@outlook.com)  
+
+---
+
+> _"Sempre aprendendo, sempre evoluindo."_ 🚀
