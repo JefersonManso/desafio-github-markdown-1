@@ -1,6 +1,6 @@
-# 🚀 Desafio GitHub - Checklist
+# 🚀 Desafio GitHub - Checklist com GIFs Animados
 
-Este repositório foi criado para atender aos requisitos do desafio de uso do GitHub, com foco no fluxo colaborativo e nas boas práticas.
+Este repositório atende ao desafio de uso do GitHub, mostrando o fluxo colaborativo com exemplos visuais animados.
 
 ---
 
@@ -14,15 +14,15 @@ Este repositório foi criado para atender aos requisitos do desafio de uso do Gi
 
 ---
 
-## 📋 Instruções e Progresso
+## 📋 Instruções e Progresso com GIFs
 
-| Atividade                      | Status    | Imagem                                           | Descrição                                                                                   |
+| Atividade                      | Status    | GIF Animado                                      | Descrição                                                                                   |
 |-------------------------------|-----------|-------------------------------------------------|---------------------------------------------------------------------------------------------|
-| Criar conta no GitHub          | ✅ Feito  | ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png) | Criar uma conta gratuita em [github.com](https://github.com) para gerenciar código e projetos. |
-| Adicionar colaborador          | ✅ Feito  | ![Adicionar Colaborador](https://user-images.githubusercontent.com/33121754/82304927-94c52f00-99ab-11ea-917e-4b489e5f4a4a.png) | Adicionar um colaborador via configurações do repositório para trabalho em equipe.           |
-| Realizar commits e pull requests | ✅ Feito | ![Pull Request](https://docs.github.com/assets/images/help/pull_requests/pull-request-review-comments.png) | Fazer commits e abrir Pull Requests para revisar e integrar alterações.                      |
-| Editar arquivo README.md       | ✅ Feito  | ![Editar README](https://docs.github.com/assets/images/help/repository/edit-readme-button.png) | Modificar o arquivo README.md para documentar o projeto com Markdown.                        |
-| Formatação Markdown            | ✅ Feito  | ![Markdown](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg) | Utilizar sintaxe Markdown para formatação de textos, listas, links, imagens e mais.          |
+| Criar conta no GitHub          | ✅ Feito  | ![Criar conta](https://user-images.githubusercontent.com/75816582/209320937-8e9f60d4-1988-4f50-9c64-65f54b16364e.gif) | Criar uma conta gratuita em [github.com](https://github.com) para gerenciar código e projetos. |
+| Adicionar colaborador          | ✅ Feito  | ![Adicionar colaborador](https://user-images.githubusercontent.com/75816582/209321138-49f07305-5f7d-4f79-8c29-351f3f6d5b26.gif) | Adicionar um colaborador via configurações do repositório para trabalho em equipe.           |
+| Realizar commits e pull requests | ✅ Feito | ![Commits e PR](https://user-images.githubusercontent.com/75816582/209321280-9870631d-3ff9-4db7-9252-c9f1d3f5a44d.gif) | Fazer commits e abrir Pull Requests para revisar e integrar alterações.                      |
+| Abrir e gerenciar Issues       | ✅ Feito  | ![Issues](https://user-images.githubusercontent.com/75816582/209321468-c1c353e5-4e7f-43b2-b45b-d8e1e7a3ebdd.gif) | Criar, comentar e fechar issues para gerenciar tarefas e bugs do projeto.                   |
+| Editar arquivo README.md       | ✅ Feito  | ![Editar README](https://user-images.githubusercontent.com/75816582/209321580-9304a2f3-9a21-4a10-b4a3-5aa5e89bb36b.gif) | Modificar o arquivo README.md para documentar o projeto com Markdown.                        |
 
 ---
 
