@@ -1,39 +1,40 @@
-# 🚀 Desafio GitHub - Checklist com GIFs Animados
+# 🚀 Desafio GitHub - Checklist
+
+Este repositório atende ao desafio de uso do GitHub, com checklist das tarefas realizadas.
 
 ---
 
-## ✅ Criar conta no GitHub  
-✅ Feito  
-![Criar conta](https://github.githubassets.com/images/modules/site/home/globe-night.gif)  
-Crie uma conta gratuita em [github.com](https://github.com) para gerenciar códigos e projetos.
+## ✅ Checklist de Atividades
+
+- ✅ Criar uma conta no GitHub  
+- ✅ Adicionar um colaborador ao repositório (pode ser um colega de curso ou você mesmo com outra conta)  
+- ✅ Realizar alterações, commits, abrir issues e pull requests  
+- ✅ Editar o arquivo `README.md` no repositório  
+- ✅ Formatação com Markdown aplicada corretamente  
 
 ---
 
-## ✅ Adicionar colaborador  
+## 📋 Instruções e Progresso
+
+### Criar conta no GitHub  
 ✅ Feito  
-![Adicionar colaborador](https://user-images.githubusercontent.com/5558238/138838902-466bf6ff-9ec3-466f-9871-bf1537b9c4c6.gif)  
-Adicione um colaborador via configurações do repositório para trabalho em equipe.
+🔗 Crie uma conta gratuita em [github.com](https://github.com) para gerenciar código e projetos.
 
----
-
-## ✅ Realizar commits e pull requests  
+### Adicionar colaborador  
 ✅ Feito  
-![Commits e PR](https://user-images.githubusercontent.com/5558238/138838917-749c0ab4-c2d4-4e09-b7d5-9a1bead9dfed.gif)  
-Fazer commits e abrir Pull Requests para revisar e integrar alterações.
+👥 Adicione um colaborador via configurações do repositório para trabalho em equipe.
 
----
-
-## ✅ Abrir e gerenciar Issues  
+### Realizar commits e pull requests  
 ✅ Feito  
-![Issues](https://user-images.githubusercontent.com/5558238/138838919-7f4c1991-2b25-4f99-8de1-6ce8ecf39316.gif)  
-Criar, comentar e fechar issues para gerenciar tarefas e bugs do projeto.
+📦 Faça commits e abra Pull Requests para revisar e integrar alterações.
 
----
-
-## ✅ Editar arquivo README.md  
+### Abrir e gerenciar Issues  
 ✅ Feito  
-![Editar README](https://user-images.githubusercontent.com/5558238/138838921-e0f0ebaf-799c-47b1-8463-5124b7f26e9e.gif)  
-Modifique o arquivo README.md para documentar o projeto com Markdown.
+🐞 Crie, comente e feche issues para gerenciar tarefas e bugs do projeto.
+
+### Editar arquivo README.md  
+✅ Feito  
+✍️ Modifique o arquivo README.md para documentar o projeto com Markdown.
 
 ---
 
@@ -41,10 +42,10 @@ Modifique o arquivo README.md para documentar o projeto com Markdown.
 
 Este repositório é uma prática para aprendizado do fluxo colaborativo no GitHub, incluindo:
 
-- **Gestão de colaboradores** — permissões e trabalho em equipe  
-- **Fluxo de commits e branches** — controle de versões e organização  
-- **Abertura e revisão de pull requests** — revisão de código e integração  
-- **Uso de issues** — gerenciamento e acompanhamento de tarefas  
+- Gestão de colaboradores  
+- Fluxo de commits e branches  
+- Abertura e revisão de pull requests  
+- Uso de issues para gerenciamento de tarefas  
 
 ---
 
